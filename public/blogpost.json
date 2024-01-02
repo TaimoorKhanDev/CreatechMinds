@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+      "title": "How to keep fear from ruining your art business with confident",
+      "subtitle":
+        "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium lorema doloremque laudantium, totam rem aperiam, eaque ipsa quae...",
+      "authorName":" Arino Admin",
+      "image": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "authorDesignation": "London, United Kindom",
+      "date": "1",
+      "month": "Jan",
+      "year": "2024"
+    },
+    {
+        "id": 2,
+      "title": "A.I becomes more powerful day by day with new approaches",
+      "subtitle":
+       " Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium lorema doloremque laudantium, totam rem aperiam, eaque ipsa quae...",
+      "authorName": "David Milar",
+      "image": "https://images.unsplash.com/photo-1605810230434-7631ac76ec81?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "authorDesignation": "London, United Kindom",
+      "date": "1",
+      "month": "Jan",
+      "year": "2024"
+    },
+    {
+        "id": 3,
+      "title": "Local SEO is a very essential role play for new websites",
+      "subtitle":
+       " Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium lorema doloremque laudantium, totam rem aperiam, eaque ipsa quae...",
+      "authorName": "Jhone Doe",
+      "image": "https://images.unsplash.com/photo-1637606346315-d23ed32a6cfc?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "authorDesignation": "London, United Kindom",
+      "date": "1",
+      "month": "Jan",
+      "year": "2024"
+    },
+    {
+        "id": 4,
+      "title": "How to keep fear from ruining your art business with confident",
+      "subtitle":
+        "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium lorema doloremque laudantium, totam rem aperiam, eaque ipsa quae...",
+      "authorName":" Arino Admin",
+      "image": "images/post_1.jpeg",
+      "authorDesignation": "London, United Kindom",
+      "date": "07",
+      "month": "Mar",
+      "year": "2022"
+    },
+    {
+        "id": 5,
+      "title": "A.I becomes more powerful day by day with new approaches",
+      "subtitle":
+       " Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium lorema doloremque laudantium, totam rem aperiam, eaque ipsa quae...",
+      "authorName": "David Milar",
+      "image": "images/post_2.jpeg",
+      "authorDesignation": "London, United Kindom",
+      "date": "17",
+      "month": "Mar",
+      "year": "2022"
+    },
+    {
+        "id": 6,
+      "title": "Local SEO is a very essential role play for new websites",
+      "subtitle":
+       " Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium lorema doloremque laudantium, totam rem aperiam, eaque ipsa quae...",
+      "authorName": "Jhone Doe",
+      "image": "images/post_3.jpeg",
+      "authorDesignation": "London, United Kindom",
+      "date": "20",
+      "month": "Mar",
+      "year": "2022"
+    }
+ ]
